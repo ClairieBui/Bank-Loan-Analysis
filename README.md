@@ -108,8 +108,8 @@ The data highlights strong growth in loan applications, funding, and received am
 By implementing these strategies, the bank can sustain loan growth, mitigate risks, and enhance overall profitability.
 
 ## 🚀 **How to Use This Dashboard**
-1. **Download the `.pbix` file** from the repository.
-2. **Open Power BI Desktop** and load the file.
+1. **Download the `.twb` file** from the repository.
+2. **Open Tableau Desktop** and load the file.
 3. Use filters and slicers to explore insights interactively.
 
 ---
