@@ -46,9 +46,10 @@ This project leverages MSSQL to conduct an in-depth analysis of bank loan data, 
 
 The data is extracted from SQL and visualized in Tableau to create the dashboard.
 
-![image](https://github.com/user-attachments/assets/f4db708f-f906-4303-a3fd-27957b9fcd7e)
+![image](https://github.com/user-attachments/assets/08e464ff-ad37-4a35-99a7-d8024a292da1)
 
-![image](https://github.com/user-attachments/assets/fd1b429a-42e2-40d5-a3b9-d1b7c907bcb3)
+![image](https://github.com/user-attachments/assets/da773a7d-4f62-4992-8530-59df0b11c7e7)
+
 
 Both two dashboards provide a comprehensive overview of total loan application, total funded amount, total amount received, average interest rate, average Debt-to-Income Ratio (DTI) from month to month (MOM) and month to date (MTD).
 
